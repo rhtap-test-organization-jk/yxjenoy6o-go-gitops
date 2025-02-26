@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yxjenoy6o-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/yxjenoy6o-go
